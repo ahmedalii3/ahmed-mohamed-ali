@@ -9,7 +9,7 @@ to know all about fibonacci click [here](https://en.wikipedia.org/wiki/Fibonacci
 3. space omptimized method
 
 
-1. **first answer (*recursion*)**
+1.**first answer (*recursion*)**
 
 `#include <iostream>`  
 `using namespace std;  `
