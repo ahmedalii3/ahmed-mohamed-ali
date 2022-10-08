@@ -4,9 +4,9 @@ to know all about fibonacci click [here](https://en.wikipedia.org/wiki/Fibonacci
 
 ![alt text](https://cdn.insteading.com/wp-content/uploads/2020/12/shell.jpg)
 ### here are some answers for fibonacci sequence
-1.recursion
-2.vector
-3.space optimized method
+1. recursion
+2. vector
+3. space omptimized method
 
 
 1. **first answer (*recursion*)**
